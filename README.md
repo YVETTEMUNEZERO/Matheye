@@ -228,7 +228,7 @@ git push
 
 ## License
 
-Add your preferred license here (for example, MIT). Create a `LICENSE` file at the root if you plan to open‑source this project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
