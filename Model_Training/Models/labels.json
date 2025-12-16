@@ -1,0 +1,1478 @@
+{
+  "31": {
+    "latex": "A",
+    "unicode": "A"
+  },
+  "32": {
+    "latex": "B",
+    "unicode": "B"
+  },
+  "33": {
+    "latex": "C",
+    "unicode": "C"
+  },
+  "34": {
+    "latex": "D",
+    "unicode": "D"
+  },
+  "35": {
+    "latex": "E",
+    "unicode": "E"
+  },
+  "36": {
+    "latex": "F",
+    "unicode": "F"
+  },
+  "37": {
+    "latex": "G",
+    "unicode": "G"
+  },
+  "38": {
+    "latex": "H",
+    "unicode": "H"
+  },
+  "39": {
+    "latex": "I",
+    "unicode": "I"
+  },
+  "40": {
+    "latex": "J",
+    "unicode": "J"
+  },
+  "41": {
+    "latex": "K",
+    "unicode": "K"
+  },
+  "42": {
+    "latex": "L",
+    "unicode": "L"
+  },
+  "43": {
+    "latex": "M",
+    "unicode": "M"
+  },
+  "44": {
+    "latex": "N",
+    "unicode": "N"
+  },
+  "45": {
+    "latex": "O",
+    "unicode": "O"
+  },
+  "46": {
+    "latex": "P",
+    "unicode": "P"
+  },
+  "47": {
+    "latex": "Q",
+    "unicode": "Q"
+  },
+  "48": {
+    "latex": "R",
+    "unicode": "R"
+  },
+  "49": {
+    "latex": "S",
+    "unicode": "S"
+  },
+  "50": {
+    "latex": "T",
+    "unicode": "T"
+  },
+  "51": {
+    "latex": "U",
+    "unicode": "U"
+  },
+  "52": {
+    "latex": "V",
+    "unicode": "V"
+  },
+  "53": {
+    "latex": "W",
+    "unicode": "W"
+  },
+  "54": {
+    "latex": "X",
+    "unicode": "X"
+  },
+  "55": {
+    "latex": "Y",
+    "unicode": "Y"
+  },
+  "56": {
+    "latex": "Z",
+    "unicode": "Z"
+  },
+  "59": {
+    "latex": "\\rightarrow",
+    "unicode": "→"
+  },
+  "70": {
+    "latex": "0",
+    "unicode": "0"
+  },
+  "71": {
+    "latex": "1",
+    "unicode": "1"
+  },
+  "72": {
+    "latex": "2",
+    "unicode": "2"
+  },
+  "73": {
+    "latex": "3",
+    "unicode": "3"
+  },
+  "74": {
+    "latex": "4",
+    "unicode": "4"
+  },
+  "75": {
+    "latex": "5",
+    "unicode": "5"
+  },
+  "76": {
+    "latex": "6",
+    "unicode": "6"
+  },
+  "77": {
+    "latex": "7",
+    "unicode": "7"
+  },
+  "78": {
+    "latex": "8",
+    "unicode": "8"
+  },
+  "79": {
+    "latex": "9",
+    "unicode": "9"
+  },
+  "81": {
+    "latex": "\\pi",
+    "unicode": "π"
+  },
+  "82": {
+    "latex": "\\alpha",
+    "unicode": "α"
+  },
+  "87": {
+    "latex": "\\beta",
+    "unicode": "β"
+  },
+  "88": {
+    "latex": "\\sum",
+    "unicode": "∑"
+  },
+  "89": {
+    "latex": "\\sigma",
+    "unicode": "σ"
+  },
+  "90": {
+    "latex": "a",
+    "unicode": "a"
+  },
+  "91": {
+    "latex": "b",
+    "unicode": "b"
+  },
+  "92": {
+    "latex": "c",
+    "unicode": "c"
+  },
+  "93": {
+    "latex": "d",
+    "unicode": "d"
+  },
+  "94": {
+    "latex": "e",
+    "unicode": "e"
+  },
+  "95": {
+    "latex": "f",
+    "unicode": "f"
+  },
+  "96": {
+    "latex": "g",
+    "unicode": "g"
+  },
+  "97": {
+    "latex": "h",
+    "unicode": "h"
+  },
+  "98": {
+    "latex": "i",
+    "unicode": "i"
+  },
+  "99": {
+    "latex": "j",
+    "unicode": "j"
+  },
+  "100": {
+    "latex": "k",
+    "unicode": "k"
+  },
+  "101": {
+    "latex": "l",
+    "unicode": "l"
+  },
+  "102": {
+    "latex": "m",
+    "unicode": "m"
+  },
+  "103": {
+    "latex": "n",
+    "unicode": "n"
+  },
+  "104": {
+    "latex": "o",
+    "unicode": "o"
+  },
+  "105": {
+    "latex": "p",
+    "unicode": "p"
+  },
+  "106": {
+    "latex": "q",
+    "unicode": "q"
+  },
+  "107": {
+    "latex": "r",
+    "unicode": "r"
+  },
+  "108": {
+    "latex": "s",
+    "unicode": "s"
+  },
+  "110": {
+    "latex": "u",
+    "unicode": "u"
+  },
+  "111": {
+    "latex": "v",
+    "unicode": "v"
+  },
+  "112": {
+    "latex": "w",
+    "unicode": "w"
+  },
+  "113": {
+    "latex": "x",
+    "unicode": "x"
+  },
+  "114": {
+    "latex": "y",
+    "unicode": "y"
+  },
+  "115": {
+    "latex": "z",
+    "unicode": "z"
+  },
+  "116": {
+    "latex": "\\Sigma",
+    "unicode": "Σ"
+  },
+  "117": {
+    "latex": "\\gamma",
+    "unicode": "γ"
+  },
+  "150": {
+    "latex": "\\Gamma",
+    "unicode": "Γ"
+  },
+  "151": {
+    "latex": "\\delta",
+    "unicode": "δ"
+  },
+  "152": {
+    "latex": "\\Delta",
+    "unicode": "Δ"
+  },
+  "153": {
+    "latex": "\\zeta",
+    "unicode": "ζ"
+  },
+  "154": {
+    "latex": "\\eta",
+    "unicode": "η"
+  },
+  "155": {
+    "latex": "\\theta",
+    "unicode": "θ"
+  },
+  "156": {
+    "latex": "\\Theta",
+    "unicode": "Θ"
+  },
+  "157": {
+    "latex": "\\epsilon",
+    "unicode": "ε"
+  },
+  "158": {
+    "latex": "\\varepsilon",
+    "unicode": ""
+  },
+  "159": {
+    "latex": "\\iota",
+    "unicode": "ι"
+  },
+  "160": {
+    "latex": "\\kappa",
+    "unicode": "κ"
+  },
+  "161": {
+    "latex": "\\varkappa",
+    "unicode": ""
+  },
+  "162": {
+    "latex": "\\lambda",
+    "unicode": "λ"
+  },
+  "163": {
+    "latex": "\\Lambda",
+    "unicode": "Λ"
+  },
+  "164": {
+    "latex": "\\mu",
+    "unicode": "μ"
+  },
+  "165": {
+    "latex": "\\nu",
+    "unicode": "ν"
+  },
+  "166": {
+    "latex": "\\xi",
+    "unicode": "ξ"
+  },
+  "167": {
+    "latex": "\\Xi",
+    "unicode": "Ξ"
+  },
+  "168": {
+    "latex": "\\Pi",
+    "unicode": "Π"
+  },
+  "169": {
+    "latex": "\\rho",
+    "unicode": "ρ"
+  },
+  "170": {
+    "latex": "\\varrho",
+    "unicode": ""
+  },
+  "171": {
+    "latex": "\\tau",
+    "unicode": "τ"
+  },
+  "174": {
+    "latex": "\\phi",
+    "unicode": "φ"
+  },
+  "175": {
+    "latex": "\\Phi",
+    "unicode": "Φ"
+  },
+  "176": {
+    "latex": "\\varphi",
+    "unicode": ""
+  },
+  "177": {
+    "latex": "\\chi",
+    "unicode": "χ"
+  },
+  "178": {
+    "latex": "\\psi",
+    "unicode": "ψ"
+  },
+  "179": {
+    "latex": "\\Psi",
+    "unicode": "Ψ"
+  },
+  "180": {
+    "latex": "\\omega",
+    "unicode": "ω"
+  },
+  "181": {
+    "latex": "\\Omega",
+    "unicode": "Ω"
+  },
+  "182": {
+    "latex": "\\partial",
+    "unicode": "∂"
+  },
+  "183": {
+    "latex": "\\int",
+    "unicode": "∫"
+  },
+  "184": {
+    "latex": "\\cdot",
+    "unicode": "·"
+  },
+  "185": {
+    "latex": "\\leq",
+    "unicode": "≤"
+  },
+  "186": {
+    "latex": "\\geq",
+    "unicode": "≥"
+  },
+  "187": {
+    "latex": "<",
+    "unicode": "<"
+  },
+  "188": {
+    "latex": ">",
+    "unicode": ">"
+  },
+  "189": {
+    "latex": "\\subset",
+    "unicode": "⊂"
+  },
+  "190": {
+    "latex": "\\supset",
+    "unicode": "⊃"
+  },
+  "191": {
+    "latex": "\\subseteq",
+    "unicode": "⊆"
+  },
+  "192": {
+    "latex": "\\supseteq",
+    "unicode": "⊇"
+  },
+  "193": {
+    "latex": "\\cong",
+    "unicode": ""
+  },
+  "194": {
+    "latex": "\\propto",
+    "unicode": "∝"
+  },
+  "195": {
+    "latex": "-",
+    "unicode": "-"
+  },
+  "196": {
+    "latex": "+",
+    "unicode": "+"
+  },
+  "197": {
+    "latex": "\\mathbb{R}",
+    "unicode": ""
+  },
+  "254": {
+    "latex": "\\$",
+    "unicode": ""
+  },
+  "257": {
+    "latex": "\\{",
+    "unicode": ""
+  },
+  "259": {
+    "latex": "\\copyright",
+    "unicode": ""
+  },
+  "260": {
+    "latex": "\\dots",
+    "unicode": ""
+  },
+  "261": {
+    "latex": "\\}",
+    "unicode": ""
+  },
+  "262": {
+    "latex": "\\S",
+    "unicode": ""
+  },
+  "263": {
+    "latex": "\\dag",
+    "unicode": ""
+  },
+  "264": {
+    "latex": "\\pounds",
+    "unicode": ""
+  },
+  "265": {
+    "latex": "\\&",
+    "unicode": ""
+  },
+  "266": {
+    "latex": "\\#",
+    "unicode": ""
+  },
+  "267": {
+    "latex": "\\%",
+    "unicode": ""
+  },
+  "268": {
+    "latex": "\\checkmark",
+    "unicode": ""
+  },
+  "269": {
+    "latex": "\\circledR",
+    "unicode": ""
+  },
+  "508": {
+    "latex": "\\mathsection",
+    "unicode": ""
+  },
+  "510": {
+    "latex": "\\amalg",
+    "unicode": ""
+  },
+  "511": {
+    "latex": "\\cup",
+    "unicode": "∪"
+  },
+  "512": {
+    "latex": "\\oplus",
+    "unicode": ""
+  },
+  "513": {
+    "latex": "\\times",
+    "unicode": "×"
+  },
+  "514": {
+    "latex": "\\ast",
+    "unicode": "∗"
+  },
+  "517": {
+    "latex": "\\triangleleft",
+    "unicode": ""
+  },
+  "520": {
+    "latex": "\\otimes",
+    "unicode": ""
+  },
+  "521": {
+    "latex": "\\triangleright",
+    "unicode": ""
+  },
+  "523": {
+    "latex": "\\diamond",
+    "unicode": ""
+  },
+  "524": {
+    "latex": "\\pm",
+    "unicode": "±"
+  },
+  "526": {
+    "latex": "\\div",
+    "unicode": "÷"
+  },
+  "527": {
+    "latex": "\\bullet",
+    "unicode": ""
+  },
+  "528": {
+    "latex": "\\setminus",
+    "unicode": ""
+  },
+  "529": {
+    "latex": "\\uplus",
+    "unicode": ""
+  },
+  "530": {
+    "latex": "\\cap",
+    "unicode": "∩"
+  },
+  "531": {
+    "latex": "\\mp",
+    "unicode": "∓"
+  },
+  "532": {
+    "latex": "\\sqcap",
+    "unicode": ""
+  },
+  "533": {
+    "latex": "\\vee",
+    "unicode": "∨"
+  },
+  "534": {
+    "latex": "\\odot",
+    "unicode": ""
+  },
+  "535": {
+    "latex": "\\sqcup",
+    "unicode": ""
+  },
+  "536": {
+    "latex": "\\wedge",
+    "unicode": "∧"
+  },
+  "537": {
+    "latex": "\\circ",
+    "unicode": ""
+  },
+  "538": {
+    "latex": "\\ominus",
+    "unicode": ""
+  },
+  "539": {
+    "latex": "\\star",
+    "unicode": ""
+  },
+  "540": {
+    "latex": "\\wr",
+    "unicode": ""
+  },
+  "541": {
+    "latex": "\\barwedge",
+    "unicode": ""
+  },
+  "542": {
+    "latex": "\\circledcirc",
+    "unicode": ""
+  },
+  "544": {
+    "latex": "\\boxdot",
+    "unicode": ""
+  },
+  "549": {
+    "latex": "\\ltimes",
+    "unicode": ""
+  },
+  "550": {
+    "latex": "\\boxplus",
+    "unicode": ""
+  },
+  "553": {
+    "latex": "\\boxtimes",
+    "unicode": ""
+  },
+  "555": {
+    "latex": "\\rtimes",
+    "unicode": ""
+  },
+  "562": {
+    "latex": "\\circledast",
+    "unicode": ""
+  },
+  "564": {
+    "latex": "\\lhd",
+    "unicode": ""
+  },
+  "574": {
+    "latex": "\\prod",
+    "unicode": "∏"
+  },
+  "577": {
+    "latex": "\\coprod",
+    "unicode": ""
+  },
+  "582": {
+    "latex": "\\oint",
+    "unicode": "∮"
+  },
+  "583": {
+    "latex": "\\parr",
+    "unicode": ""
+  },
+  "584": {
+    "latex": "\\with",
+    "unicode": ""
+  },
+  "591": {
+    "latex": "\\fint",
+    "unicode": ""
+  },
+  "595": {
+    "latex": "\\varoiint",
+    "unicode": ""
+  },
+  "600": {
+    "latex": "\\oiint",
+    "unicode": ""
+  },
+  "601": {
+    "latex": "\\approx",
+    "unicode": "≈"
+  },
+  "603": {
+    "latex": "\\equiv",
+    "unicode": "≡"
+  },
+  "604": {
+    "latex": "\\not\\equiv",
+    "unicode": ""
+  },
+  "605": {
+    "latex": "\\perp",
+    "unicode": "⊥"
+  },
+  "607": {
+    "latex": "\\asymp",
+    "unicode": ""
+  },
+  "608": {
+    "latex": "\\frown",
+    "unicode": ""
+  },
+  "609": {
+    "latex": "\\prec",
+    "unicode": ""
+  },
+  "610": {
+    "latex": "\\succ",
+    "unicode": ""
+  },
+  "611": {
+    "latex": "\\bowtie",
+    "unicode": ""
+  },
+  "612": {
+    "latex": "\\preceq",
+    "unicode": ""
+  },
+  "613": {
+    "latex": "\\succeq",
+    "unicode": ""
+  },
+  "614": {
+    "latex": "\\mid",
+    "unicode": ""
+  },
+  "615": {
+    "latex": "\\vdash",
+    "unicode": ""
+  },
+  "616": {
+    "latex": "\\dashv",
+    "unicode": ""
+  },
+  "617": {
+    "latex": "\\models",
+    "unicode": ""
+  },
+  "618": {
+    "latex": "\\sim",
+    "unicode": "∼"
+  },
+  "620": {
+    "latex": "\\doteq",
+    "unicode": ""
+  },
+  "621": {
+    "latex": "\\parallel",
+    "unicode": "∥"
+  },
+  "622": {
+    "latex": "\\simeq",
+    "unicode": "≃"
+  },
+  "630": {
+    "latex": "\\backsim",
+    "unicode": ""
+  },
+  "631": {
+    "latex": "\\multimap",
+    "unicode": ""
+  },
+  "634": {
+    "latex": "\\pitchfork",
+    "unicode": ""
+  },
+  "635": {
+    "latex": "\\therefore",
+    "unicode": ""
+  },
+  "636": {
+    "latex": "\\because",
+    "unicode": ""
+  },
+  "639": {
+    "latex": "\\between",
+    "unicode": ""
+  },
+  "640": {
+    "latex": "\\preccurlyeq",
+    "unicode": ""
+  },
+  "644": {
+    "latex": "\\varpropto",
+    "unicode": ""
+  },
+  "647": {
+    "latex": "\\Vdash",
+    "unicode": ""
+  },
+  "650": {
+    "latex": "\\vDash",
+    "unicode": ""
+  },
+  "661": {
+    "latex": "\\nmid",
+    "unicode": ""
+  },
+  "671": {
+    "latex": "\\nvDash",
+    "unicode": ""
+  },
+  "678": {
+    "latex": "\\sqsubseteq",
+    "unicode": ""
+  },
+  "679": {
+    "latex": "\\nsubseteq",
+    "unicode": ""
+  },
+  "683": {
+    "latex": "\\subsetneq",
+    "unicode": ""
+  },
+  "684": {
+    "latex": "\\varsubsetneq",
+    "unicode": ""
+  },
+  "698": {
+    "latex": "\\neq",
+    "unicode": "≠"
+  },
+  "711": {
+    "latex": "\\geqslant",
+    "unicode": ""
+  },
+  "712": {
+    "latex": "\\gtrless",
+    "unicode": ""
+  },
+  "713": {
+    "latex": "\\lesssim",
+    "unicode": ""
+  },
+  "716": {
+    "latex": "\\gtrsim",
+    "unicode": ""
+  },
+  "728": {
+    "latex": "\\leqslant",
+    "unicode": ""
+  },
+  "739": {
+    "latex": "\\trianglelefteq",
+    "unicode": ""
+  },
+  "741": {
+    "latex": "\\blacktriangleright",
+    "unicode": ""
+  },
+  "743": {
+    "latex": "\\triangleq",
+    "unicode": ""
+  },
+  "748": {
+    "latex": "\\Downarrow",
+    "unicode": ""
+  },
+  "751": {
+    "latex": "\\downarrow",
+    "unicode": "↓"
+  },
+  "753": {
+    "latex": "\\Rightarrow",
+    "unicode": "⇒"
+  },
+  "756": {
+    "latex": "\\hookrightarrow",
+    "unicode": ""
+  },
+  "757": {
+    "latex": "\\Longleftrightarrow",
+    "unicode": ""
+  },
+  "758": {
+    "latex": "\\searrow",
+    "unicode": ""
+  },
+  "759": {
+    "latex": "\\longmapsto",
+    "unicode": ""
+  },
+  "761": {
+    "latex": "\\leftarrow",
+    "unicode": "←"
+  },
+  "762": {
+    "latex": "\\Longrightarrow",
+    "unicode": ""
+  },
+  "763": {
+    "latex": "\\uparrow",
+    "unicode": "↑"
+  },
+  "764": {
+    "latex": "\\Leftarrow",
+    "unicode": "⇐"
+  },
+  "765": {
+    "latex": "\\longrightarrow",
+    "unicode": ""
+  },
+  "767": {
+    "latex": "\\Leftrightarrow",
+    "unicode": "⇔"
+  },
+  "768": {
+    "latex": "\\mapsto",
+    "unicode": "↦"
+  },
+  "770": {
+    "latex": "\\leftrightarrow",
+    "unicode": "↔"
+  },
+  "771": {
+    "latex": "\\nearrow",
+    "unicode": ""
+  },
+  "775": {
+    "latex": "\\rightleftharpoons",
+    "unicode": ""
+  },
+  "777": {
+    "latex": "\\rightharpoonup",
+    "unicode": ""
+  },
+  "778": {
+    "latex": "\\leadsto",
+    "unicode": ""
+  },
+  "783": {
+    "latex": "\\circlearrowleft",
+    "unicode": ""
+  },
+  "785": {
+    "latex": "\\rightleftarrows",
+    "unicode": ""
+  },
+  "786": {
+    "latex": "\\circlearrowright",
+    "unicode": ""
+  },
+  "788": {
+    "latex": "\\rightrightarrows",
+    "unicode": ""
+  },
+  "791": {
+    "latex": "\\rightsquigarrow",
+    "unicode": ""
+  },
+  "792": {
+    "latex": "\\curvearrowright",
+    "unicode": ""
+  },
+  "801": {
+    "latex": "\\twoheadrightarrow",
+    "unicode": ""
+  },
+  "809": {
+    "latex": "\\nRightarrow",
+    "unicode": ""
+  },
+  "812": {
+    "latex": "\\nrightarrow",
+    "unicode": ""
+  },
+  "817": {
+    "latex": "\\upharpoonright",
+    "unicode": ""
+  },
+  "822": {
+    "latex": "\\mapsfrom",
+    "unicode": ""
+  },
+  "823": {
+    "latex": "\\shortrightarrow",
+    "unicode": ""
+  },
+  "827": {
+    "latex": "\\lightning",
+    "unicode": ""
+  },
+  "837": {
+    "latex": "\\vartheta",
+    "unicode": ""
+  },
+  "838": {
+    "latex": "\\varpi",
+    "unicode": ""
+  },
+  "881": {
+    "latex": "\\bot",
+    "unicode": ""
+  },
+  "882": {
+    "latex": "\\forall",
+    "unicode": "∀"
+  },
+  "884": {
+    "latex": "\\ni",
+    "unicode": "∋"
+  },
+  "885": {
+    "latex": "\\top",
+    "unicode": ""
+  },
+  "886": {
+    "latex": "\\ell",
+    "unicode": ""
+  },
+  "887": {
+    "latex": "\\hbar",
+    "unicode": ""
+  },
+  "888": {
+    "latex": "\\in",
+    "unicode": "∈"
+  },
+  "889": {
+    "latex": "\\notin",
+    "unicode": "∉"
+  },
+  "890": {
+    "latex": "\\wp",
+    "unicode": ""
+  },
+  "891": {
+    "latex": "\\exists",
+    "unicode": "∃"
+  },
+  "892": {
+    "latex": "\\Im",
+    "unicode": ""
+  },
+  "894": {
+    "latex": "\\Re",
+    "unicode": ""
+  },
+  "901": {
+    "latex": "\\nexists",
+    "unicode": ""
+  },
+  "912": {
+    "latex": "\\langle",
+    "unicode": ""
+  },
+  "913": {
+    "latex": "\\rangle",
+    "unicode": ""
+  },
+  "914": {
+    "latex": "\\lceil",
+    "unicode": ""
+  },
+  "915": {
+    "latex": "\\rceil",
+    "unicode": ""
+  },
+  "916": {
+    "latex": "\\lfloor",
+    "unicode": ""
+  },
+  "917": {
+    "latex": "\\rfloor",
+    "unicode": ""
+  },
+  "918": {
+    "latex": "[",
+    "unicode": "["
+  },
+  "919": {
+    "latex": "]",
+    "unicode": "]"
+  },
+  "920": {
+    "latex": "|",
+    "unicode": ""
+  },
+  "921": {
+    "latex": "\\|",
+    "unicode": ""
+  },
+  "922": {
+    "latex": "/",
+    "unicode": "/"
+  },
+  "923": {
+    "latex": "\\llbracket",
+    "unicode": ""
+  },
+  "924": {
+    "latex": "\\rrbracket",
+    "unicode": ""
+  },
+  "934": {
+    "latex": "\\vdots",
+    "unicode": ""
+  },
+  "936": {
+    "latex": "\\ddots",
+    "unicode": ""
+  },
+  "941": {
+    "latex": "\\dotsc",
+    "unicode": ""
+  },
+  "943": {
+    "latex": "\\aleph",
+    "unicode": ""
+  },
+  "944": {
+    "latex": "\\infty",
+    "unicode": "∞"
+  },
+  "945": {
+    "latex": "\\prime",
+    "unicode": ""
+  },
+  "946": {
+    "latex": "\\angle",
+    "unicode": "∠"
+  },
+  "947": {
+    "latex": "\\diamondsuit",
+    "unicode": ""
+  },
+  "948": {
+    "latex": "\\sharp",
+    "unicode": ""
+  },
+  "949": {
+    "latex": "\\backslash",
+    "unicode": ""
+  },
+  "950": {
+    "latex": "\\emptyset",
+    "unicode": "∅"
+  },
+  "951": {
+    "latex": "\\nabla",
+    "unicode": "∇"
+  },
+  "953": {
+    "latex": "\\flat",
+    "unicode": ""
+  },
+  "956": {
+    "latex": "\\clubsuit",
+    "unicode": ""
+  },
+  "957": {
+    "latex": "\\heartsuit",
+    "unicode": ""
+  },
+  "958": {
+    "latex": "\\neg",
+    "unicode": "¬"
+  },
+  "959": {
+    "latex": "\\triangle",
+    "unicode": "△"
+  },
+  "960": {
+    "latex": "\\sqrt{}",
+    "unicode": ""
+  },
+  "965": {
+    "latex": "\\sphericalangle",
+    "unicode": ""
+  },
+  "968": {
+    "latex": "\\square",
+    "unicode": ""
+  },
+  "971": {
+    "latex": "\\triangledown",
+    "unicode": ""
+  },
+  "972": {
+    "latex": "\\blacksquare",
+    "unicode": ""
+  },
+  "973": {
+    "latex": "\\lozenge",
+    "unicode": ""
+  },
+  "974": {
+    "latex": "\\varnothing",
+    "unicode": ""
+  },
+  "977": {
+    "latex": "\\vartriangle",
+    "unicode": ""
+  },
+  "992": {
+    "latex": "\\iddots",
+    "unicode": ""
+  },
+  "993": {
+    "latex": "\\mathcal{A}",
+    "unicode": ""
+  },
+  "994": {
+    "latex": "\\mathcal{B}",
+    "unicode": ""
+  },
+  "995": {
+    "latex": "\\mathcal{C}",
+    "unicode": ""
+  },
+  "996": {
+    "latex": "\\mathcal{D}",
+    "unicode": ""
+  },
+  "997": {
+    "latex": "\\mathcal{E}",
+    "unicode": ""
+  },
+  "998": {
+    "latex": "\\mathcal{F}",
+    "unicode": ""
+  },
+  "999": {
+    "latex": "\\mathcal{G}",
+    "unicode": ""
+  },
+  "1000": {
+    "latex": "\\mathcal{H}",
+    "unicode": ""
+  },
+  "1004": {
+    "latex": "\\mathcal{L}",
+    "unicode": ""
+  },
+  "1005": {
+    "latex": "\\mathcal{M}",
+    "unicode": ""
+  },
+  "1006": {
+    "latex": "\\mathcal{N}",
+    "unicode": ""
+  },
+  "1007": {
+    "latex": "\\mathcal{O}",
+    "unicode": ""
+  },
+  "1008": {
+    "latex": "\\mathcal{P}",
+    "unicode": ""
+  },
+  "1010": {
+    "latex": "\\mathcal{R}",
+    "unicode": ""
+  },
+  "1011": {
+    "latex": "\\mathcal{S}",
+    "unicode": ""
+  },
+  "1012": {
+    "latex": "\\mathcal{T}",
+    "unicode": ""
+  },
+  "1013": {
+    "latex": "\\mathcal{U}",
+    "unicode": ""
+  },
+  "1016": {
+    "latex": "\\mathcal{X}",
+    "unicode": ""
+  },
+  "1018": {
+    "latex": "\\mathcal{Z}",
+    "unicode": ""
+  },
+  "1019": {
+    "latex": "\\mathfrak{A}",
+    "unicode": ""
+  },
+  "1031": {
+    "latex": "\\mathfrak{M}",
+    "unicode": ""
+  },
+  "1037": {
+    "latex": "\\mathfrak{S}",
+    "unicode": ""
+  },
+  "1042": {
+    "latex": "\\mathfrak{X}",
+    "unicode": ""
+  },
+  "1045": {
+    "latex": "\\mathbb{1}",
+    "unicode": ""
+  },
+  "1046": {
+    "latex": "\\mathds{1}",
+    "unicode": ""
+  },
+  "1051": {
+    "latex": "\\mathds{C}",
+    "unicode": ""
+  },
+  "1053": {
+    "latex": "\\mathds{E}",
+    "unicode": ""
+  },
+  "1062": {
+    "latex": "\\mathds{N}",
+    "unicode": ""
+  },
+  "1064": {
+    "latex": "\\mathds{P}",
+    "unicode": ""
+  },
+  "1065": {
+    "latex": "\\mathds{Q}",
+    "unicode": ""
+  },
+  "1066": {
+    "latex": "\\mathds{R}",
+    "unicode": ""
+  },
+  "1074": {
+    "latex": "\\mathds{Z}",
+    "unicode": ""
+  },
+  "1075": {
+    "latex": "\\mathscr{A}",
+    "unicode": ""
+  },
+  "1077": {
+    "latex": "\\mathscr{C}",
+    "unicode": ""
+  },
+  "1078": {
+    "latex": "\\mathscr{D}",
+    "unicode": ""
+  },
+  "1079": {
+    "latex": "\\mathscr{E}",
+    "unicode": ""
+  },
+  "1080": {
+    "latex": "\\mathscr{F}",
+    "unicode": ""
+  },
+  "1082": {
+    "latex": "\\mathscr{H}",
+    "unicode": ""
+  },
+  "1086": {
+    "latex": "\\mathscr{L}",
+    "unicode": ""
+  },
+  "1090": {
+    "latex": "\\mathscr{P}",
+    "unicode": ""
+  },
+  "1093": {
+    "latex": "\\mathscr{S}",
+    "unicode": ""
+  },
+  "1101": {
+    "latex": "\\celsius",
+    "unicode": ""
+  },
+  "1102": {
+    "latex": "\\degree",
+    "unicode": ""
+  },
+  "1103": {
+    "latex": "\\ohm",
+    "unicode": ""
+  },
+  "1111": {
+    "latex": "\\venus",
+    "unicode": ""
+  },
+  "1112": {
+    "latex": "\\mars",
+    "unicode": ""
+  },
+  "1115": {
+    "latex": "\\astrosun",
+    "unicode": ""
+  },
+  "1116": {
+    "latex": "\\fullmoon",
+    "unicode": ""
+  },
+  "1117": {
+    "latex": "\\leftmoon",
+    "unicode": ""
+  },
+  "1168": {
+    "latex": "\\female",
+    "unicode": ""
+  },
+  "1169": {
+    "latex": "\\male",
+    "unicode": ""
+  },
+  "1177": {
+    "latex": "\\checked",
+    "unicode": ""
+  },
+  "1184": {
+    "latex": "\\diameter",
+    "unicode": ""
+  },
+  "1185": {
+    "latex": "\\sun",
+    "unicode": ""
+  },
+  "1187": {
+    "latex": "\\Bowtie",
+    "unicode": ""
+  },
+  "1314": {
+    "latex": "\\mathbb{Q}",
+    "unicode": ""
+  },
+  "1315": {
+    "latex": "\\mathbb{N}",
+    "unicode": ""
+  },
+  "1316": {
+    "latex": "\\mathbb{Z}",
+    "unicode": ""
+  },
+  "1317": {
+    "latex": "\\mathbb{H}",
+    "unicode": ""
+  },
+  "1369": {
+    "latex": "\\ss",
+    "unicode": ""
+  },
+  "1371": {
+    "latex": "\\aa",
+    "unicode": ""
+  },
+  "1374": {
+    "latex": "\\L",
+    "unicode": ""
+  },
+  "1382": {
+    "latex": "\\AA",
+    "unicode": ""
+  },
+  "1385": {
+    "latex": "\\O",
+    "unicode": ""
+  },
+  "1394": {
+    "latex": "\\o",
+    "unicode": ""
+  },
+  "1395": {
+    "latex": "\\ae",
+    "unicode": ""
+  },
+  "1396": {
+    "latex": "\\AE",
+    "unicode": ""
+  },
+  "1400": {
+    "latex": "\\guillemotleft",
+    "unicode": ""
+  }
+}

@@ -1,0 +1,29 @@
+<svg
+  width="650"
+  height="170"
+  viewBox="0 0 650 170"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    .signature {
+      font-family: 'Great Vibes', 'Allura', 'Lucida Handwriting', cursive;
+      fill: #000;
+    }
+    .from-text {
+      font-size: 34px;
+      opacity: 0.7;
+    }
+    .names {
+      font-size: 78px;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <text x="30" y="55" class="signature from-text">
+    From
+  </text>
+
+  <text x="30" y="135" class="signature names">
+    Yvette &amp; Obed
+  </text>
+</svg>

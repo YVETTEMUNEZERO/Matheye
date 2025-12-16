@@ -1,0 +1,1847 @@
+{
+  "196": {
+    "latex": "+",
+    "unicode": "",
+    "samples": 90
+  },
+  "195": {
+    "latex": "-",
+    "unicode": "",
+    "samples": 118
+  },
+  "922": {
+    "latex": "/",
+    "unicode": "",
+    "samples": 532
+  },
+  "70": {
+    "latex": "0",
+    "unicode": "",
+    "samples": 133
+  },
+  "71": {
+    "latex": "1",
+    "unicode": "",
+    "samples": 118
+  },
+  "72": {
+    "latex": "2",
+    "unicode": "",
+    "samples": 124
+  },
+  "73": {
+    "latex": "3",
+    "unicode": "",
+    "samples": 120
+  },
+  "74": {
+    "latex": "4",
+    "unicode": "",
+    "samples": 61
+  },
+  "75": {
+    "latex": "5",
+    "unicode": "",
+    "samples": 78
+  },
+  "76": {
+    "latex": "6",
+    "unicode": "",
+    "samples": 100
+  },
+  "77": {
+    "latex": "7",
+    "unicode": "",
+    "samples": 75
+  },
+  "78": {
+    "latex": "8",
+    "unicode": "",
+    "samples": 121
+  },
+  "79": {
+    "latex": "9",
+    "unicode": "",
+    "samples": 90
+  },
+  "187": {
+    "latex": "<",
+    "unicode": "",
+    "samples": 114
+  },
+  "188": {
+    "latex": ">",
+    "unicode": "",
+    "samples": 101
+  },
+  "31": {
+    "latex": "A",
+    "unicode": "",
+    "samples": 159
+  },
+  "32": {
+    "latex": "B",
+    "unicode": "",
+    "samples": 61
+  },
+  "33": {
+    "latex": "C",
+    "unicode": "",
+    "samples": 134
+  },
+  "34": {
+    "latex": "D",
+    "unicode": "",
+    "samples": 58
+  },
+  "35": {
+    "latex": "E",
+    "unicode": "",
+    "samples": 54
+  },
+  "36": {
+    "latex": "F",
+    "unicode": "",
+    "samples": 56
+  },
+  "37": {
+    "latex": "G",
+    "unicode": "",
+    "samples": 118
+  },
+  "38": {
+    "latex": "H",
+    "unicode": "",
+    "samples": 64
+  },
+  "39": {
+    "latex": "I",
+    "unicode": "",
+    "samples": 100
+  },
+  "40": {
+    "latex": "J",
+    "unicode": "",
+    "samples": 104
+  },
+  "41": {
+    "latex": "K",
+    "unicode": "",
+    "samples": 96
+  },
+  "42": {
+    "latex": "L",
+    "unicode": "",
+    "samples": 111
+  },
+  "43": {
+    "latex": "M",
+    "unicode": "",
+    "samples": 120
+  },
+  "44": {
+    "latex": "N",
+    "unicode": "",
+    "samples": 105
+  },
+  "45": {
+    "latex": "O",
+    "unicode": "",
+    "samples": 84
+  },
+  "46": {
+    "latex": "P",
+    "unicode": "",
+    "samples": 72
+  },
+  "47": {
+    "latex": "Q",
+    "unicode": "",
+    "samples": 67
+  },
+  "48": {
+    "latex": "R",
+    "unicode": "",
+    "samples": 83
+  },
+  "49": {
+    "latex": "S",
+    "unicode": "",
+    "samples": 63
+  },
+  "50": {
+    "latex": "T",
+    "unicode": "",
+    "samples": 56
+  },
+  "51": {
+    "latex": "U",
+    "unicode": "",
+    "samples": 59
+  },
+  "52": {
+    "latex": "V",
+    "unicode": "",
+    "samples": 56
+  },
+  "53": {
+    "latex": "W",
+    "unicode": "",
+    "samples": 62
+  },
+  "54": {
+    "latex": "X",
+    "unicode": "",
+    "samples": 54
+  },
+  "55": {
+    "latex": "Y",
+    "unicode": "",
+    "samples": 56
+  },
+  "56": {
+    "latex": "Z",
+    "unicode": "",
+    "samples": 65
+  },
+  "918": {
+    "latex": "[",
+    "unicode": "",
+    "samples": 916
+  },
+  "266": {
+    "latex": "\\#",
+    "unicode": "",
+    "samples": 1067
+  },
+  "254": {
+    "latex": "\\$",
+    "unicode": "",
+    "samples": 387
+  },
+  "267": {
+    "latex": "\\%",
+    "unicode": "",
+    "samples": 887
+  },
+  "265": {
+    "latex": "\\&",
+    "unicode": "",
+    "samples": 1286
+  },
+  "1382": {
+    "latex": "\\AA",
+    "unicode": "",
+    "samples": 758
+  },
+  "1396": {
+    "latex": "\\AE",
+    "unicode": "",
+    "samples": 149
+  },
+  "1187": {
+    "latex": "\\Bowtie",
+    "unicode": "",
+    "samples": 268
+  },
+  "152": {
+    "latex": "\\Delta",
+    "unicode": "",
+    "samples": 996
+  },
+  "748": {
+    "latex": "\\Downarrow",
+    "unicode": "",
+    "samples": 164
+  },
+  "150": {
+    "latex": "\\Gamma",
+    "unicode": "",
+    "samples": 621
+  },
+  "892": {
+    "latex": "\\Im",
+    "unicode": "",
+    "samples": 121
+  },
+  "1374": {
+    "latex": "\\L",
+    "unicode": "",
+    "samples": 99
+  },
+  "163": {
+    "latex": "\\Lambda",
+    "unicode": "",
+    "samples": 441
+  },
+  "764": {
+    "latex": "\\Leftarrow",
+    "unicode": "",
+    "samples": 140
+  },
+  "767": {
+    "latex": "\\Leftrightarrow",
+    "unicode": "",
+    "samples": 1235
+  },
+  "757": {
+    "latex": "\\Longleftrightarrow",
+    "unicode": "",
+    "samples": 240
+  },
+  "762": {
+    "latex": "\\Longrightarrow",
+    "unicode": "",
+    "samples": 270
+  },
+  "1385": {
+    "latex": "\\O",
+    "unicode": "",
+    "samples": 237
+  },
+  "181": {
+    "latex": "\\Omega",
+    "unicode": "",
+    "samples": 823
+  },
+  "175": {
+    "latex": "\\Phi",
+    "unicode": "",
+    "samples": 607
+  },
+  "168": {
+    "latex": "\\Pi",
+    "unicode": "",
+    "samples": 799
+  },
+  "179": {
+    "latex": "\\Psi",
+    "unicode": "",
+    "samples": 448
+  },
+  "894": {
+    "latex": "\\Re",
+    "unicode": "",
+    "samples": 193
+  },
+  "753": {
+    "latex": "\\Rightarrow",
+    "unicode": "",
+    "samples": 1759
+  },
+  "262": {
+    "latex": "\\S",
+    "unicode": "",
+    "samples": 345
+  },
+  "116": {
+    "latex": "\\Sigma",
+    "unicode": "",
+    "samples": 1910
+  },
+  "156": {
+    "latex": "\\Theta",
+    "unicode": "",
+    "samples": 461
+  },
+  "647": {
+    "latex": "\\Vdash",
+    "unicode": "",
+    "samples": 135
+  },
+  "167": {
+    "latex": "\\Xi",
+    "unicode": "",
+    "samples": 398
+  },
+  "1371": {
+    "latex": "\\aa",
+    "unicode": "",
+    "samples": 231
+  },
+  "1395": {
+    "latex": "\\ae",
+    "unicode": "",
+    "samples": 286
+  },
+  "943": {
+    "latex": "\\aleph",
+    "unicode": "",
+    "samples": 763
+  },
+  "82": {
+    "latex": "\\alpha",
+    "unicode": "",
+    "samples": 2601
+  },
+  "510": {
+    "latex": "\\amalg",
+    "unicode": "",
+    "samples": 184
+  },
+  "946": {
+    "latex": "\\angle",
+    "unicode": "",
+    "samples": 240
+  },
+  "601": {
+    "latex": "\\approx",
+    "unicode": "",
+    "samples": 2041
+  },
+  "514": {
+    "latex": "\\ast",
+    "unicode": "",
+    "samples": 557
+  },
+  "1115": {
+    "latex": "\\astrosun",
+    "unicode": "",
+    "samples": 298
+  },
+  "607": {
+    "latex": "\\asymp",
+    "unicode": "",
+    "samples": 150
+  },
+  "630": {
+    "latex": "\\backsim",
+    "unicode": "",
+    "samples": 141
+  },
+  "949": {
+    "latex": "\\backslash",
+    "unicode": "",
+    "samples": 260
+  },
+  "541": {
+    "latex": "\\barwedge",
+    "unicode": "",
+    "samples": 108
+  },
+  "636": {
+    "latex": "\\because",
+    "unicode": "",
+    "samples": 215
+  },
+  "87": {
+    "latex": "\\beta",
+    "unicode": "",
+    "samples": 1131
+  },
+  "639": {
+    "latex": "\\between",
+    "unicode": "",
+    "samples": 94
+  },
+  "972": {
+    "latex": "\\blacksquare",
+    "unicode": "",
+    "samples": 402
+  },
+  "741": {
+    "latex": "\\blacktriangleright",
+    "unicode": "",
+    "samples": 60
+  },
+  "881": {
+    "latex": "\\bot",
+    "unicode": "",
+    "samples": 733
+  },
+  "611": {
+    "latex": "\\bowtie",
+    "unicode": "",
+    "samples": 240
+  },
+  "544": {
+    "latex": "\\boxdot",
+    "unicode": "",
+    "samples": 121
+  },
+  "550": {
+    "latex": "\\boxplus",
+    "unicode": "",
+    "samples": 105
+  },
+  "553": {
+    "latex": "\\boxtimes",
+    "unicode": "",
+    "samples": 214
+  },
+  "527": {
+    "latex": "\\bullet",
+    "unicode": "",
+    "samples": 350
+  },
+  "530": {
+    "latex": "\\cap",
+    "unicode": "",
+    "samples": 1098
+  },
+  "184": {
+    "latex": "\\cdot",
+    "unicode": "",
+    "samples": 755
+  },
+  "1101": {
+    "latex": "\\celsius",
+    "unicode": "",
+    "samples": 329
+  },
+  "1177": {
+    "latex": "\\checked",
+    "unicode": "",
+    "samples": 279
+  },
+  "268": {
+    "latex": "\\checkmark",
+    "unicode": "",
+    "samples": 875
+  },
+  "177": {
+    "latex": "\\chi",
+    "unicode": "",
+    "samples": 929
+  },
+  "537": {
+    "latex": "\\circ",
+    "unicode": "",
+    "samples": 980
+  },
+  "783": {
+    "latex": "\\circlearrowleft",
+    "unicode": "",
+    "samples": 167
+  },
+  "786": {
+    "latex": "\\circlearrowright",
+    "unicode": "",
+    "samples": 139
+  },
+  "269": {
+    "latex": "\\circledR",
+    "unicode": "",
+    "samples": 119
+  },
+  "562": {
+    "latex": "\\circledast",
+    "unicode": "",
+    "samples": 118
+  },
+  "542": {
+    "latex": "\\circledcirc",
+    "unicode": "",
+    "samples": 113
+  },
+  "956": {
+    "latex": "\\clubsuit",
+    "unicode": "",
+    "samples": 274
+  },
+  "193": {
+    "latex": "\\cong",
+    "unicode": "",
+    "samples": 1399
+  },
+  "577": {
+    "latex": "\\coprod",
+    "unicode": "",
+    "samples": 167
+  },
+  "259": {
+    "latex": "\\copyright",
+    "unicode": "",
+    "samples": 241
+  },
+  "511": {
+    "latex": "\\cup",
+    "unicode": "",
+    "samples": 923
+  },
+  "792": {
+    "latex": "\\curvearrowright",
+    "unicode": "",
+    "samples": 163
+  },
+  "263": {
+    "latex": "\\dag",
+    "unicode": "",
+    "samples": 252
+  },
+  "616": {
+    "latex": "\\dashv",
+    "unicode": "",
+    "samples": 213
+  },
+  "936": {
+    "latex": "\\ddots",
+    "unicode": "",
+    "samples": 399
+  },
+  "1102": {
+    "latex": "\\degree",
+    "unicode": "",
+    "samples": 671
+  },
+  "151": {
+    "latex": "\\delta",
+    "unicode": "",
+    "samples": 1246
+  },
+  "1184": {
+    "latex": "\\diameter",
+    "unicode": "",
+    "samples": 195
+  },
+  "523": {
+    "latex": "\\diamond",
+    "unicode": "",
+    "samples": 250
+  },
+  "947": {
+    "latex": "\\diamondsuit",
+    "unicode": "",
+    "samples": 111
+  },
+  "526": {
+    "latex": "\\div",
+    "unicode": "",
+    "samples": 335
+  },
+  "620": {
+    "latex": "\\doteq",
+    "unicode": "",
+    "samples": 180
+  },
+  "260": {
+    "latex": "\\dots",
+    "unicode": "",
+    "samples": 138
+  },
+  "941": {
+    "latex": "\\dotsc",
+    "unicode": "",
+    "samples": 150
+  },
+  "751": {
+    "latex": "\\downarrow",
+    "unicode": "",
+    "samples": 204
+  },
+  "886": {
+    "latex": "\\ell",
+    "unicode": "",
+    "samples": 903
+  },
+  "950": {
+    "latex": "\\emptyset",
+    "unicode": "",
+    "samples": 950
+  },
+  "157": {
+    "latex": "\\epsilon",
+    "unicode": "",
+    "samples": 544
+  },
+  "603": {
+    "latex": "\\equiv",
+    "unicode": "",
+    "samples": 2518
+  },
+  "154": {
+    "latex": "\\eta",
+    "unicode": "",
+    "samples": 686
+  },
+  "891": {
+    "latex": "\\exists",
+    "unicode": "",
+    "samples": 1402
+  },
+  "1168": {
+    "latex": "\\female",
+    "unicode": "",
+    "samples": 176
+  },
+  "591": {
+    "latex": "\\fint",
+    "unicode": "",
+    "samples": 296
+  },
+  "953": {
+    "latex": "\\flat",
+    "unicode": "",
+    "samples": 127
+  },
+  "882": {
+    "latex": "\\forall",
+    "unicode": "",
+    "samples": 2139
+  },
+  "608": {
+    "latex": "\\frown",
+    "unicode": "",
+    "samples": 90
+  },
+  "1116": {
+    "latex": "\\fullmoon",
+    "unicode": "",
+    "samples": 142
+  },
+  "117": {
+    "latex": "\\gamma",
+    "unicode": "",
+    "samples": 1140
+  },
+  "186": {
+    "latex": "\\geq",
+    "unicode": "",
+    "samples": 866
+  },
+  "711": {
+    "latex": "\\geqslant",
+    "unicode": "",
+    "samples": 304
+  },
+  "712": {
+    "latex": "\\gtrless",
+    "unicode": "",
+    "samples": 97
+  },
+  "716": {
+    "latex": "\\gtrsim",
+    "unicode": "",
+    "samples": 641
+  },
+  "1400": {
+    "latex": "\\guillemotleft",
+    "unicode": "",
+    "samples": 107
+  },
+  "887": {
+    "latex": "\\hbar",
+    "unicode": "",
+    "samples": 519
+  },
+  "957": {
+    "latex": "\\heartsuit",
+    "unicode": "",
+    "samples": 910
+  },
+  "756": {
+    "latex": "\\hookrightarrow",
+    "unicode": "",
+    "samples": 667
+  },
+  "992": {
+    "latex": "\\iddots",
+    "unicode": "",
+    "samples": 238
+  },
+  "888": {
+    "latex": "\\in",
+    "unicode": "",
+    "samples": 2296
+  },
+  "944": {
+    "latex": "\\infty",
+    "unicode": "",
+    "samples": 2914
+  },
+  "183": {
+    "latex": "\\int",
+    "unicode": "",
+    "samples": 3514
+  },
+  "159": {
+    "latex": "\\iota",
+    "unicode": "",
+    "samples": 156
+  },
+  "160": {
+    "latex": "\\kappa",
+    "unicode": "",
+    "samples": 251
+  },
+  "162": {
+    "latex": "\\lambda",
+    "unicode": "",
+    "samples": 996
+  },
+  "912": {
+    "latex": "\\langle",
+    "unicode": "",
+    "samples": 762
+  },
+  "914": {
+    "latex": "\\lceil",
+    "unicode": "",
+    "samples": 347
+  },
+  "778": {
+    "latex": "\\leadsto",
+    "unicode": "",
+    "samples": 624
+  },
+  "761": {
+    "latex": "\\leftarrow",
+    "unicode": "",
+    "samples": 209
+  },
+  "1117": {
+    "latex": "\\leftmoon",
+    "unicode": "",
+    "samples": 101
+  },
+  "770": {
+    "latex": "\\leftrightarrow",
+    "unicode": "",
+    "samples": 505
+  },
+  "185": {
+    "latex": "\\leq",
+    "unicode": "",
+    "samples": 1054
+  },
+  "728": {
+    "latex": "\\leqslant",
+    "unicode": "",
+    "samples": 398
+  },
+  "713": {
+    "latex": "\\lesssim",
+    "unicode": "",
+    "samples": 773
+  },
+  "916": {
+    "latex": "\\lfloor",
+    "unicode": "",
+    "samples": 420
+  },
+  "564": {
+    "latex": "\\lhd",
+    "unicode": "",
+    "samples": 105
+  },
+  "827": {
+    "latex": "\\lightning",
+    "unicode": "",
+    "samples": 549
+  },
+  "923": {
+    "latex": "\\llbracket",
+    "unicode": "",
+    "samples": 773
+  },
+  "759": {
+    "latex": "\\longmapsto",
+    "unicode": "",
+    "samples": 181
+  },
+  "765": {
+    "latex": "\\longrightarrow",
+    "unicode": "",
+    "samples": 243
+  },
+  "973": {
+    "latex": "\\lozenge",
+    "unicode": "",
+    "samples": 155
+  },
+  "549": {
+    "latex": "\\ltimes",
+    "unicode": "",
+    "samples": 221
+  },
+  "1169": {
+    "latex": "\\male",
+    "unicode": "",
+    "samples": 380
+  },
+  "822": {
+    "latex": "\\mapsfrom",
+    "unicode": "",
+    "samples": 121
+  },
+  "768": {
+    "latex": "\\mapsto",
+    "unicode": "",
+    "samples": 915
+  },
+  "1112": {
+    "latex": "\\mars",
+    "unicode": "",
+    "samples": 227
+  },
+  "1045": {
+    "latex": "\\mathbb{1}",
+    "unicode": "",
+    "samples": 948
+  },
+  "1317": {
+    "latex": "\\mathbb{H}",
+    "unicode": "",
+    "samples": 72
+  },
+  "1315": {
+    "latex": "\\mathbb{N}",
+    "unicode": "",
+    "samples": 51
+  },
+  "1314": {
+    "latex": "\\mathbb{Q}",
+    "unicode": "",
+    "samples": 53
+  },
+  "197": {
+    "latex": "\\mathbb{R}",
+    "unicode": "",
+    "samples": 56
+  },
+  "1316": {
+    "latex": "\\mathbb{Z}",
+    "unicode": "",
+    "samples": 66
+  },
+  "993": {
+    "latex": "\\mathcal{A}",
+    "unicode": "",
+    "samples": 359
+  },
+  "994": {
+    "latex": "\\mathcal{B}",
+    "unicode": "",
+    "samples": 160
+  },
+  "995": {
+    "latex": "\\mathcal{C}",
+    "unicode": "",
+    "samples": 184
+  },
+  "996": {
+    "latex": "\\mathcal{D}",
+    "unicode": "",
+    "samples": 204
+  },
+  "997": {
+    "latex": "\\mathcal{E}",
+    "unicode": "",
+    "samples": 282
+  },
+  "998": {
+    "latex": "\\mathcal{F}",
+    "unicode": "",
+    "samples": 393
+  },
+  "999": {
+    "latex": "\\mathcal{G}",
+    "unicode": "",
+    "samples": 114
+  },
+  "1000": {
+    "latex": "\\mathcal{H}",
+    "unicode": "",
+    "samples": 242
+  },
+  "1004": {
+    "latex": "\\mathcal{L}",
+    "unicode": "",
+    "samples": 743
+  },
+  "1005": {
+    "latex": "\\mathcal{M}",
+    "unicode": "",
+    "samples": 221
+  },
+  "1006": {
+    "latex": "\\mathcal{N}",
+    "unicode": "",
+    "samples": 330
+  },
+  "1007": {
+    "latex": "\\mathcal{O}",
+    "unicode": "",
+    "samples": 867
+  },
+  "1008": {
+    "latex": "\\mathcal{P}",
+    "unicode": "",
+    "samples": 362
+  },
+  "1010": {
+    "latex": "\\mathcal{R}",
+    "unicode": "",
+    "samples": 160
+  },
+  "1011": {
+    "latex": "\\mathcal{S}",
+    "unicode": "",
+    "samples": 183
+  },
+  "1012": {
+    "latex": "\\mathcal{T}",
+    "unicode": "",
+    "samples": 184
+  },
+  "1013": {
+    "latex": "\\mathcal{U}",
+    "unicode": "",
+    "samples": 114
+  },
+  "1016": {
+    "latex": "\\mathcal{X}",
+    "unicode": "",
+    "samples": 124
+  },
+  "1018": {
+    "latex": "\\mathcal{Z}",
+    "unicode": "",
+    "samples": 156
+  },
+  "1046": {
+    "latex": "\\mathds{1}",
+    "unicode": "",
+    "samples": 311
+  },
+  "1051": {
+    "latex": "\\mathds{C}",
+    "unicode": "",
+    "samples": 417
+  },
+  "1053": {
+    "latex": "\\mathds{E}",
+    "unicode": "",
+    "samples": 203
+  },
+  "1062": {
+    "latex": "\\mathds{N}",
+    "unicode": "",
+    "samples": 1016
+  },
+  "1064": {
+    "latex": "\\mathds{P}",
+    "unicode": "",
+    "samples": 198
+  },
+  "1065": {
+    "latex": "\\mathds{Q}",
+    "unicode": "",
+    "samples": 222
+  },
+  "1066": {
+    "latex": "\\mathds{R}",
+    "unicode": "",
+    "samples": 2378
+  },
+  "1074": {
+    "latex": "\\mathds{Z}",
+    "unicode": "",
+    "samples": 1008
+  },
+  "1019": {
+    "latex": "\\mathfrak{A}",
+    "unicode": "",
+    "samples": 154
+  },
+  "1031": {
+    "latex": "\\mathfrak{M}",
+    "unicode": "",
+    "samples": 110
+  },
+  "1037": {
+    "latex": "\\mathfrak{S}",
+    "unicode": "",
+    "samples": 223
+  },
+  "1042": {
+    "latex": "\\mathfrak{X}",
+    "unicode": "",
+    "samples": 115
+  },
+  "1075": {
+    "latex": "\\mathscr{A}",
+    "unicode": "",
+    "samples": 185
+  },
+  "1077": {
+    "latex": "\\mathscr{C}",
+    "unicode": "",
+    "samples": 219
+  },
+  "1078": {
+    "latex": "\\mathscr{D}",
+    "unicode": "",
+    "samples": 139
+  },
+  "1079": {
+    "latex": "\\mathscr{E}",
+    "unicode": "",
+    "samples": 101
+  },
+  "1080": {
+    "latex": "\\mathscr{F}",
+    "unicode": "",
+    "samples": 132
+  },
+  "1082": {
+    "latex": "\\mathscr{H}",
+    "unicode": "",
+    "samples": 209
+  },
+  "1086": {
+    "latex": "\\mathscr{L}",
+    "unicode": "",
+    "samples": 804
+  },
+  "1090": {
+    "latex": "\\mathscr{P}",
+    "unicode": "",
+    "samples": 115
+  },
+  "1093": {
+    "latex": "\\mathscr{S}",
+    "unicode": "",
+    "samples": 193
+  },
+  "508": {
+    "latex": "\\mathsection",
+    "unicode": "",
+    "samples": 127
+  },
+  "614": {
+    "latex": "\\mid",
+    "unicode": "",
+    "samples": 336
+  },
+  "617": {
+    "latex": "\\models",
+    "unicode": "",
+    "samples": 474
+  },
+  "531": {
+    "latex": "\\mp",
+    "unicode": "",
+    "samples": 115
+  },
+  "164": {
+    "latex": "\\mu",
+    "unicode": "",
+    "samples": 1147
+  },
+  "631": {
+    "latex": "\\multimap",
+    "unicode": "",
+    "samples": 99
+  },
+  "809": {
+    "latex": "\\nRightarrow",
+    "unicode": "",
+    "samples": 97
+  },
+  "951": {
+    "latex": "\\nabla",
+    "unicode": "",
+    "samples": 1217
+  },
+  "771": {
+    "latex": "\\nearrow",
+    "unicode": "",
+    "samples": 201
+  },
+  "958": {
+    "latex": "\\neg",
+    "unicode": "",
+    "samples": 843
+  },
+  "698": {
+    "latex": "\\neq",
+    "unicode": "",
+    "samples": 1527
+  },
+  "901": {
+    "latex": "\\nexists",
+    "unicode": "",
+    "samples": 312
+  },
+  "884": {
+    "latex": "\\ni",
+    "unicode": "",
+    "samples": 489
+  },
+  "661": {
+    "latex": "\\nmid",
+    "unicode": "",
+    "samples": 348
+  },
+  "604": {
+    "latex": "\\not\\equiv",
+    "unicode": "",
+    "samples": 383
+  },
+  "889": {
+    "latex": "\\notin",
+    "unicode": "",
+    "samples": 1306
+  },
+  "812": {
+    "latex": "\\nrightarrow",
+    "unicode": "",
+    "samples": 185
+  },
+  "679": {
+    "latex": "\\nsubseteq",
+    "unicode": "",
+    "samples": 199
+  },
+  "165": {
+    "latex": "\\nu",
+    "unicode": "",
+    "samples": 391
+  },
+  "671": {
+    "latex": "\\nvDash",
+    "unicode": "",
+    "samples": 144
+  },
+  "1394": {
+    "latex": "\\o",
+    "unicode": "",
+    "samples": 314
+  },
+  "534": {
+    "latex": "\\odot",
+    "unicode": "",
+    "samples": 486
+  },
+  "1103": {
+    "latex": "\\ohm",
+    "unicode": "",
+    "samples": 330
+  },
+  "600": {
+    "latex": "\\oiint",
+    "unicode": "",
+    "samples": 320
+  },
+  "582": {
+    "latex": "\\oint",
+    "unicode": "",
+    "samples": 1186
+  },
+  "180": {
+    "latex": "\\omega",
+    "unicode": "",
+    "samples": 631
+  },
+  "538": {
+    "latex": "\\ominus",
+    "unicode": "",
+    "samples": 101
+  },
+  "512": {
+    "latex": "\\oplus",
+    "unicode": "",
+    "samples": 1337
+  },
+  "520": {
+    "latex": "\\otimes",
+    "unicode": "",
+    "samples": 1076
+  },
+  "621": {
+    "latex": "\\parallel",
+    "unicode": "",
+    "samples": 359
+  },
+  "583": {
+    "latex": "\\parr",
+    "unicode": "",
+    "samples": 95
+  },
+  "182": {
+    "latex": "\\partial",
+    "unicode": "",
+    "samples": 2413
+  },
+  "605": {
+    "latex": "\\perp",
+    "unicode": "",
+    "samples": 1101
+  },
+  "174": {
+    "latex": "\\phi",
+    "unicode": "",
+    "samples": 687
+  },
+  "81": {
+    "latex": "\\pi",
+    "unicode": "",
+    "samples": 1533
+  },
+  "634": {
+    "latex": "\\pitchfork",
+    "unicode": "",
+    "samples": 111
+  },
+  "524": {
+    "latex": "\\pm",
+    "unicode": "",
+    "samples": 1528
+  },
+  "264": {
+    "latex": "\\pounds",
+    "unicode": "",
+    "samples": 150
+  },
+  "609": {
+    "latex": "\\prec",
+    "unicode": "",
+    "samples": 523
+  },
+  "640": {
+    "latex": "\\preccurlyeq",
+    "unicode": "",
+    "samples": 183
+  },
+  "612": {
+    "latex": "\\preceq",
+    "unicode": "",
+    "samples": 277
+  },
+  "945": {
+    "latex": "\\prime",
+    "unicode": "",
+    "samples": 147
+  },
+  "574": {
+    "latex": "\\prod",
+    "unicode": "",
+    "samples": 1112
+  },
+  "194": {
+    "latex": "\\propto",
+    "unicode": "",
+    "samples": 1385
+  },
+  "178": {
+    "latex": "\\psi",
+    "unicode": "",
+    "samples": 562
+  },
+  "913": {
+    "latex": "\\rangle",
+    "unicode": "",
+    "samples": 159
+  },
+  "915": {
+    "latex": "\\rceil",
+    "unicode": "",
+    "samples": 175
+  },
+  "917": {
+    "latex": "\\rfloor",
+    "unicode": "",
+    "samples": 147
+  },
+  "169": {
+    "latex": "\\rho",
+    "unicode": "",
+    "samples": 692
+  },
+  "59": {
+    "latex": "\\rightarrow",
+    "unicode": "",
+    "samples": 1066
+  },
+  "777": {
+    "latex": "\\rightharpoonup",
+    "unicode": "",
+    "samples": 217
+  },
+  "785": {
+    "latex": "\\rightleftarrows",
+    "unicode": "",
+    "samples": 123
+  },
+  "775": {
+    "latex": "\\rightleftharpoons",
+    "unicode": "",
+    "samples": 209
+  },
+  "788": {
+    "latex": "\\rightrightarrows",
+    "unicode": "",
+    "samples": 139
+  },
+  "791": {
+    "latex": "\\rightsquigarrow",
+    "unicode": "",
+    "samples": 171
+  },
+  "924": {
+    "latex": "\\rrbracket",
+    "unicode": "",
+    "samples": 175
+  },
+  "555": {
+    "latex": "\\rtimes",
+    "unicode": "",
+    "samples": 267
+  },
+  "758": {
+    "latex": "\\searrow",
+    "unicode": "",
+    "samples": 142
+  },
+  "528": {
+    "latex": "\\setminus",
+    "unicode": "",
+    "samples": 514
+  },
+  "948": {
+    "latex": "\\sharp",
+    "unicode": "",
+    "samples": 237
+  },
+  "823": {
+    "latex": "\\shortrightarrow",
+    "unicode": "",
+    "samples": 275
+  },
+  "89": {
+    "latex": "\\sigma",
+    "unicode": "",
+    "samples": 1123
+  },
+  "618": {
+    "latex": "\\sim",
+    "unicode": "",
+    "samples": 2008
+  },
+  "622": {
+    "latex": "\\simeq",
+    "unicode": "",
+    "samples": 880
+  },
+  "965": {
+    "latex": "\\sphericalangle",
+    "unicode": "",
+    "samples": 103
+  },
+  "532": {
+    "latex": "\\sqcap",
+    "unicode": "",
+    "samples": 148
+  },
+  "535": {
+    "latex": "\\sqcup",
+    "unicode": "",
+    "samples": 264
+  },
+  "960": {
+    "latex": "\\sqrt{}",
+    "unicode": "",
+    "samples": 978
+  },
+  "678": {
+    "latex": "\\sqsubseteq",
+    "unicode": "",
+    "samples": 288
+  },
+  "968": {
+    "latex": "\\square",
+    "unicode": "",
+    "samples": 2179
+  },
+  "1369": {
+    "latex": "\\ss",
+    "unicode": "",
+    "samples": 240
+  },
+  "539": {
+    "latex": "\\star",
+    "unicode": "",
+    "samples": 261
+  },
+  "189": {
+    "latex": "\\subset",
+    "unicode": "",
+    "samples": 772
+  },
+  "191": {
+    "latex": "\\subseteq",
+    "unicode": "",
+    "samples": 1576
+  },
+  "683": {
+    "latex": "\\subsetneq",
+    "unicode": "",
+    "samples": 239
+  },
+  "610": {
+    "latex": "\\succ",
+    "unicode": "",
+    "samples": 362
+  },
+  "613": {
+    "latex": "\\succeq",
+    "unicode": "",
+    "samples": 201
+  },
+  "88": {
+    "latex": "\\sum",
+    "unicode": "",
+    "samples": 3400
+  },
+  "1185": {
+    "latex": "\\sun",
+    "unicode": "",
+    "samples": 163
+  },
+  "190": {
+    "latex": "\\supset",
+    "unicode": "",
+    "samples": 411
+  },
+  "192": {
+    "latex": "\\supseteq",
+    "unicode": "",
+    "samples": 404
+  },
+  "171": {
+    "latex": "\\tau",
+    "unicode": "",
+    "samples": 424
+  },
+  "635": {
+    "latex": "\\therefore",
+    "unicode": "",
+    "samples": 762
+  },
+  "155": {
+    "latex": "\\theta",
+    "unicode": "",
+    "samples": 651
+  },
+  "513": {
+    "latex": "\\times",
+    "unicode": "",
+    "samples": 1509
+  },
+  "885": {
+    "latex": "\\top",
+    "unicode": "",
+    "samples": 336
+  },
+  "959": {
+    "latex": "\\triangle",
+    "unicode": "",
+    "samples": 316
+  },
+  "971": {
+    "latex": "\\triangledown",
+    "unicode": "",
+    "samples": 194
+  },
+  "517": {
+    "latex": "\\triangleleft",
+    "unicode": "",
+    "samples": 133
+  },
+  "739": {
+    "latex": "\\trianglelefteq",
+    "unicode": "",
+    "samples": 167
+  },
+  "743": {
+    "latex": "\\triangleq",
+    "unicode": "",
+    "samples": 569
+  },
+  "521": {
+    "latex": "\\triangleright",
+    "unicode": "",
+    "samples": 152
+  },
+  "801": {
+    "latex": "\\twoheadrightarrow",
+    "unicode": "",
+    "samples": 415
+  },
+  "763": {
+    "latex": "\\uparrow",
+    "unicode": "",
+    "samples": 227
+  },
+  "817": {
+    "latex": "\\upharpoonright",
+    "unicode": "",
+    "samples": 139
+  },
+  "529": {
+    "latex": "\\uplus",
+    "unicode": "",
+    "samples": 184
+  },
+  "650": {
+    "latex": "\\vDash",
+    "unicode": "",
+    "samples": 453
+  },
+  "158": {
+    "latex": "\\varepsilon",
+    "unicode": "",
+    "samples": 741
+  },
+  "161": {
+    "latex": "\\varkappa",
+    "unicode": "",
+    "samples": 143
+  },
+  "974": {
+    "latex": "\\varnothing",
+    "unicode": "",
+    "samples": 461
+  },
+  "595": {
+    "latex": "\\varoiint",
+    "unicode": "",
+    "samples": 141
+  },
+  "176": {
+    "latex": "\\varphi",
+    "unicode": "",
+    "samples": 1522
+  },
+  "838": {
+    "latex": "\\varpi",
+    "unicode": "",
+    "samples": 146
+  },
+  "644": {
+    "latex": "\\varpropto",
+    "unicode": "",
+    "samples": 132
+  },
+  "170": {
+    "latex": "\\varrho",
+    "unicode": "",
+    "samples": 222
+  },
+  "684": {
+    "latex": "\\varsubsetneq",
+    "unicode": "",
+    "samples": 98
+  },
+  "837": {
+    "latex": "\\vartheta",
+    "unicode": "",
+    "samples": 282
+  },
+  "977": {
+    "latex": "\\vartriangle",
+    "unicode": "",
+    "samples": 112
+  },
+  "615": {
+    "latex": "\\vdash",
+    "unicode": "",
+    "samples": 1068
+  },
+  "934": {
+    "latex": "\\vdots",
+    "unicode": "",
+    "samples": 408
+  },
+  "533": {
+    "latex": "\\vee",
+    "unicode": "",
+    "samples": 861
+  },
+  "1111": {
+    "latex": "\\venus",
+    "unicode": "",
+    "samples": 126
+  },
+  "536": {
+    "latex": "\\wedge",
+    "unicode": "",
+    "samples": 1452
+  },
+  "584": {
+    "latex": "\\with",
+    "unicode": "",
+    "samples": 202
+  },
+  "890": {
+    "latex": "\\wp",
+    "unicode": "",
+    "samples": 356
+  },
+  "540": {
+    "latex": "\\wr",
+    "unicode": "",
+    "samples": 56
+  },
+  "166": {
+    "latex": "\\xi",
+    "unicode": "",
+    "samples": 2567
+  },
+  "153": {
+    "latex": "\\zeta",
+    "unicode": "",
+    "samples": 872
+  },
+  "257": {
+    "latex": "\\{",
+    "unicode": "",
+    "samples": 1136
+  },
+  "921": {
+    "latex": "\\|",
+    "unicode": "",
+    "samples": 370
+  },
+  "261": {
+    "latex": "\\}",
+    "unicode": "",
+    "samples": 321
+  },
+  "919": {
+    "latex": "]",
+    "unicode": "",
+    "samples": 259
+  },
+  "90": {
+    "latex": "a",
+    "unicode": "",
+    "samples": 86
+  },
+  "91": {
+    "latex": "b",
+    "unicode": "",
+    "samples": 57
+  },
+  "92": {
+    "latex": "c",
+    "unicode": "",
+    "samples": 67
+  },
+  "93": {
+    "latex": "d",
+    "unicode": "",
+    "samples": 58
+  },
+  "94": {
+    "latex": "e",
+    "unicode": "",
+    "samples": 63
+  },
+  "95": {
+    "latex": "f",
+    "unicode": "",
+    "samples": 66
+  },
+  "96": {
+    "latex": "g",
+    "unicode": "",
+    "samples": 56
+  },
+  "97": {
+    "latex": "h",
+    "unicode": "",
+    "samples": 58
+  },
+  "98": {
+    "latex": "i",
+    "unicode": "",
+    "samples": 59
+  },
+  "99": {
+    "latex": "j",
+    "unicode": "",
+    "samples": 53
+  },
+  "100": {
+    "latex": "k",
+    "unicode": "",
+    "samples": 58
+  },
+  "101": {
+    "latex": "l",
+    "unicode": "",
+    "samples": 56
+  },
+  "102": {
+    "latex": "m",
+    "unicode": "",
+    "samples": 57
+  },
+  "103": {
+    "latex": "n",
+    "unicode": "",
+    "samples": 61
+  },
+  "104": {
+    "latex": "o",
+    "unicode": "",
+    "samples": 62
+  },
+  "105": {
+    "latex": "p",
+    "unicode": "",
+    "samples": 55
+  },
+  "106": {
+    "latex": "q",
+    "unicode": "",
+    "samples": 69
+  },
+  "107": {
+    "latex": "r",
+    "unicode": "",
+    "samples": 61
+  },
+  "108": {
+    "latex": "s",
+    "unicode": "",
+    "samples": 59
+  },
+  "110": {
+    "latex": "u",
+    "unicode": "",
+    "samples": 57
+  },
+  "111": {
+    "latex": "v",
+    "unicode": "",
+    "samples": 63
+  },
+  "112": {
+    "latex": "w",
+    "unicode": "",
+    "samples": 56
+  },
+  "113": {
+    "latex": "x",
+    "unicode": "",
+    "samples": 66
+  },
+  "114": {
+    "latex": "y",
+    "unicode": "",
+    "samples": 58
+  },
+  "115": {
+    "latex": "z",
+    "unicode": "",
+    "samples": 60
+  },
+  "920": {
+    "latex": "|",
+    "unicode": "",
+    "samples": 511
+  }
+}

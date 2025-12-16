@@ -1,0 +1,333 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #25570d 0%, #378344 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.81);
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    color: #4f7f3d;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    color: hsl(0, 0%, 0%);
+    font-size: 1.1em;
+}
+
+.camera-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+    border-radius: 10px;
+    
+}
+
+#video {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    border: 3px solid #124805;
+    margin-bottom: 20px;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-weight: 600;
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.btn-primary {
+    background: #9dea66;
+    color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+    background: #195709;
+    transform: translateY(-2px);
+}
+
+.btn-success {
+    background: #185f21;
+    color: white;
+}
+
+.btn-success:hover:not(:disabled) {
+    background: #205714;
+    transform: translateY(-2px);
+}
+
+.btn-secondary {
+    background: #299b37;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background: #366a18;
+    transform: translateY(-2px);
+}
+
+.preview-section, .results-section {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.preview-section h3, .results-section h3 {
+    color: #436725;
+    margin-bottom: 15px;
+}
+
+#preview {
+    max-width: 300px;
+    border-radius: 10px;
+    border: 2px solid #437525;
+    margin-bottom: 15px;
+}
+
+.results-section {
+    background: #f7fafc;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.result-item {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border-left: 4px solid #549233;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.result-symbol {
+    font-size: 2em;
+    font-weight: bold;
+    color: #74a943;
+}
+
+.result-latex {
+    font-family: monospace;
+    color: #77b544;
+}
+
+.result-confidence {
+    font-weight: bold;
+    color: #48bb78;
+}
+
+.loading {
+    text-align: center;
+    padding: 30px;
+}
+
+.spinner {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #4b7717;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto 15px;
+}
+/* --- New Styles for Single Result Display --- */
+
+.result-box {
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Success Styles */
+.success-box {
+    background-color: #e6fffa; /* Light teal */
+    border: 1px solid #48bb78; /* Green */
+}
+
+.success-heading {
+    color: #38a169; /* Darker Green */
+    margin-bottom: 20px;
+}
+
+.recognized-symbol {
+    font-size: 6em;
+    font-weight: bold;
+    margin: 20px 0;
+    line-height: 1;
+}
+
+.symbol-details {
+    color: #112441;
+    margin-bottom: 30px;
+    font-size: 0.9em;
+}
+
+/* Error Styles */
+.error-box {
+    background-color: #fff5f5cc; /* Light red */
+    border: 1px solid #bd3535; /* Red */
+}
+
+.error-heading {
+    color: #cc1a1a; /* Dark Red */
+    margin-bottom: 15px;
+}
+
+.error-message {
+    color: #08111e;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+/* Action Buttons */
+.action-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.btn-action {
+    background-color: #0b6c3a; /* Blue */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+    text-decoration: none; /* For the <a> tag */
+}
+
+.btn-action:hover {
+    background-color: #17b04d;
+}
+
+.btn-new {
+    background-color: #178d40; /* Green for Add New */
+}
+
+.btn-new:hover {
+    background-color: #38a169;
+}
+.message{
+    padding:10px;
+    margin: 10px;
+}
+
+.btn-discard {
+    background-color: #b51717; /* Red for Discard */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-discard:hover {
+    background-color: #c90e0e;
+}
+.recognized-symbol {
+    /* This makes the symbol huge */
+    font-size: 6em; 
+    font-weight: bold;
+    margin: 20px 0;
+    line-height: 1;
+    /* This ensures the symbol is horizontally centered */
+    text-align: center;
+}
+/* Add this to your CSS */
+.recognized-symbol-container {
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ddd; /* Add a border for visual check */
+    background-color: #f9f9f9;
+}
+
+.recognized-symbol {
+    /* Critical styles for visibility */
+    font-family: sans-serif; /* Use a common font that supports Unicode */
+    font-size: 80px;         /* Make it very large */
+    font-weight: bold;
+    color: #333;             /* Ensure contrast */
+    line-height: 1.0;
+    display: inline-block;
+}
+.signature-footer {
+    text-align: right; /* Align to the right side of the page/container */
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.signature-img {
+    width: 200px; /* Adjust the size as needed for your footer */
+    height: auto;
+    padding: 0%;
+    display: block; /* Ensures proper alignment if used on its own line */
+    margin-left: auto; /* Centers or adjusts positioning */
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+    }
+    
+    header h1 {
+        font-size: 1.8em;
+    }
+    
+    .controls {
+        flex-direction: column;
+    }
+}
