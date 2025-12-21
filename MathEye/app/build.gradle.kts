@@ -7,14 +7,12 @@ plugins {
 
 android {
     namespace = "com.example.matheye"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.matheye"
         minSdk = 24
-        targetSdk = 36
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
@@ -44,9 +42,6 @@ android {
         compose = true
     }
     packaging {
-        jniLibs {
-            useLegacyPackaging = false
-        }
         resources {
             excludes.add("/META-INF/{AL2.0,LGPL2.1}")
         }
@@ -69,7 +64,8 @@ dependencies {
     implementation(libs.tensorflow.lite.support)
     implementation(libs.tensorflow.lite.metadata)
     implementation(libs.androidx.navigation.compose)
-    implementation("com.github.CanHub:Android-Image-Cropper:4.4.0")
+    implementation("com.github.CanHub:Android-Image-Cropper:4.5.0")
+    implementation("androidx.appcompat:appcompat:1.7.1")
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
